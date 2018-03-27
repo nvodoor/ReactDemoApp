@@ -1,0 +1,18 @@
+.App {
+	text-align: center;
+	position: relative;
+	top: 20px;
+	left: 35%;
+	width: 400px;
+	height: 700px;
+	border: 2px solid black;
+	border-radius: 25px;
+}
+
+.red {
+	color: red;
+}
+
+.bold {
+	font-weight: bold;
+}
